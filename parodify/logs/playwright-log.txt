@@ -1,50 +1,11 @@
-{"level":30,"time":"2021-03-09T18:59:07.964Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Listening on 53623"}
-{"level":30,"time":"2021-03-09T18:59:09.161Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changed active context"}
-{"level":30,"time":"2021-03-09T18:59:09.627Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Video path: undefined"}
-{"level":30,"time":"2021-03-09T18:59:09.627Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changed active page"}
-{"level":30,"time":"2021-03-09T18:59:14.013Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changed active context"}
-{"level":30,"time":"2021-03-09T18:59:14.013Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changing current active page"}
-{"level":30,"time":"2021-03-09T18:59:14.013Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changed active page"}
-{"level":30,"time":"2021-03-09T18:59:14.046Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changed active context"}
-{"level":30,"time":"2021-03-09T18:59:14.046Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changing current active page"}
-{"level":30,"time":"2021-03-09T18:59:14.046Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changed active page"}
-{"level":30,"time":"2021-03-09T18:59:14.769Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changed active context"}
-{"level":30,"time":"2021-03-09T18:59:15.064Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Video path: undefined"}
-{"level":30,"time":"2021-03-09T18:59:15.064Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changed active page"}
-{"level":30,"time":"2021-03-09T18:59:19.060Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Retrieved text for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
-{"level":30,"time":"2021-03-09T18:59:19.580Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changed active context"}
-{"level":30,"time":"2021-03-09T18:59:19.580Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changing current active page"}
-{"level":30,"time":"2021-03-09T18:59:19.580Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changed active page"}
-{"level":30,"time":"2021-03-09T18:59:19.630Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changed active context"}
-{"level":30,"time":"2021-03-09T18:59:19.630Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changing current active page"}
-{"level":30,"time":"2021-03-09T18:59:19.631Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changed active page"}
-{"level":30,"time":"2021-03-09T18:59:20.582Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changed active context"}
-{"level":30,"time":"2021-03-09T18:59:20.950Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Video path: undefined"}
-{"level":30,"time":"2021-03-09T18:59:20.950Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changed active page"}
-{"level":30,"time":"2021-03-09T18:59:25.154Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Retrieved text for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
-{"level":30,"time":"2021-03-09T18:59:25.634Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changed active context"}
-{"level":30,"time":"2021-03-09T18:59:25.634Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changing current active page"}
-{"level":30,"time":"2021-03-09T18:59:25.634Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changed active page"}
-{"level":30,"time":"2021-03-09T18:59:25.672Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changed active context"}
-{"level":30,"time":"2021-03-09T18:59:25.673Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changing current active page"}
-{"level":30,"time":"2021-03-09T18:59:25.673Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changed active page"}
-{"level":30,"time":"2021-03-09T18:59:26.507Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changed active context"}
-{"level":30,"time":"2021-03-09T18:59:26.807Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Video path: undefined"}
-{"level":30,"time":"2021-03-09T18:59:26.807Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changed active page"}
-{"level":30,"time":"2021-03-09T18:59:30.635Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Retrieved text for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
-{"level":30,"time":"2021-03-09T18:59:31.088Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changed active context"}
-{"level":30,"time":"2021-03-09T18:59:31.088Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changing current active page"}
-{"level":30,"time":"2021-03-09T18:59:31.088Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changed active page"}
-{"level":30,"time":"2021-03-09T18:59:31.129Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changed active context"}
-{"level":30,"time":"2021-03-09T18:59:31.129Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changing current active page"}
-{"level":30,"time":"2021-03-09T18:59:31.129Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changed active page"}
-{"level":30,"time":"2021-03-09T18:59:31.958Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changed active context"}
-{"level":30,"time":"2021-03-09T18:59:32.326Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Video path: undefined"}
-{"level":30,"time":"2021-03-09T18:59:32.326Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changed active page"}
-{"level":30,"time":"2021-03-09T18:59:35.971Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Retrieved text for element css=.is-danger .message-body containing Opps! Dados de acesso incorretos!"}
-{"level":30,"time":"2021-03-09T18:59:36.518Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changed active context"}
-{"level":30,"time":"2021-03-09T18:59:36.518Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changing current active page"}
-{"level":30,"time":"2021-03-09T18:59:36.518Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changed active page"}
-{"level":30,"time":"2021-03-09T18:59:36.619Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changed active context"}
-{"level":30,"time":"2021-03-09T18:59:36.619Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changing current active page"}
-{"level":30,"time":"2021-03-09T18:59:36.619Z","pid":15228,"hostname":"DESKTOP-CO3LPQS","msg":"Changed active page"}
+{"level":30,"time":"2021-03-09T20:16:14.938Z","pid":14192,"hostname":"DESKTOP-CO3LPQS","msg":"Listening on 54494"}
+{"level":30,"time":"2021-03-09T20:16:16.287Z","pid":14192,"hostname":"DESKTOP-CO3LPQS","msg":"Changed active context"}
+{"level":30,"time":"2021-03-09T20:16:16.569Z","pid":14192,"hostname":"DESKTOP-CO3LPQS","msg":"Video path: undefined"}
+{"level":30,"time":"2021-03-09T20:16:16.569Z","pid":14192,"hostname":"DESKTOP-CO3LPQS","msg":"Changed active page"}
+{"level":30,"time":"2021-03-09T20:16:23.460Z","pid":14192,"hostname":"DESKTOP-CO3LPQS","msg":"Getting css of element on page"}
+{"level":30,"time":"2021-03-09T20:16:23.822Z","pid":14192,"hostname":"DESKTOP-CO3LPQS","msg":"Changed active context"}
+{"level":30,"time":"2021-03-09T20:16:23.822Z","pid":14192,"hostname":"DESKTOP-CO3LPQS","msg":"Changing current active page"}
+{"level":30,"time":"2021-03-09T20:16:23.823Z","pid":14192,"hostname":"DESKTOP-CO3LPQS","msg":"Changed active page"}
+{"level":30,"time":"2021-03-09T20:16:23.858Z","pid":14192,"hostname":"DESKTOP-CO3LPQS","msg":"Changed active context"}
+{"level":30,"time":"2021-03-09T20:16:23.858Z","pid":14192,"hostname":"DESKTOP-CO3LPQS","msg":"Changing current active page"}
+{"level":30,"time":"2021-03-09T20:16:23.858Z","pid":14192,"hostname":"DESKTOP-CO3LPQS","msg":"Changed active page"}
