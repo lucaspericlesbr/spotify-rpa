@@ -1,10 +1,7 @@
 ***Settings***
 Documentation   Testes da página login
 
-Library   Browser
-
-Resource    resources/login_actions.robot
-Resource    resources/home_logged_actions.robot
+Resource        ../resources/base.robot
 
 Test Teardown   Take Screenshot
 
