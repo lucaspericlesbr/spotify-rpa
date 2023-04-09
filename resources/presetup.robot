@@ -1,9 +1,9 @@
 *** Settings ***
-Library          SeleniumLibrary
+Library              SeleniumLibrary
 
 *** Variables ***
-${URL}            https://open.spotify.com/
-${BROWSER}        chrome
+${URL}               https://open.spotify.com/
+${BROWSER}           chrome
 
 *** Keywords ***
 Abrir navegador
