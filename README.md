@@ -10,8 +10,6 @@
 <!-- About The Project -->
 ## 🚀 About The Project
 
-Este é um projeto de automação completo utilizando o framework Robot Framework. O objetivo é automatizar testes em aplicações web, desktop e mobile. 
-Para aplicações web, utilizamos Selenium WebDriver e para desktop utilizamos a biblioteca Sikuli. Para aplicações mobile, utilizamos Appium.
+This is a complete automation project using the Robot Framework. The goal is to automate tests on web, desktop, and mobile applications. For web applications, we use Selenium WebDriver and for desktop applications, we use the Sikuli library. For mobile applications, we use Appium.
 
-Este projeto é um exemplo de como é possível utilizar o Robot Framework para automatizar testes em diferentes plataformas, aumentando a eficiência e a 
-qualidade dos testes de uma aplicação.
+This project is an example of how it's possible to use the Robot Framework to automate tests on different platforms, increasing the efficiency and quality of an application's tests.
