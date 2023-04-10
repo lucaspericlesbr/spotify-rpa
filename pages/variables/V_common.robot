@@ -5,4 +5,4 @@ ${userName}           //input[@id="login-username"]
 ${password}           //input[@id="login-password"]
 
 ${userProfile}        //span[text()="rpaspot"]
-${upgrade}            //button[@title="Faça upgrade para o Premium"]
+${homePage}           //button[@data-encore-id="buttonSecondary"]

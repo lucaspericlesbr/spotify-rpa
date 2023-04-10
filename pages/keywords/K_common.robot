@@ -22,4 +22,4 @@ Usuário preenche os dados de password
 
 Usuário é logado no sistema na página principal
     Wait Until Element Is Visible    ${userProfile}
-    Wait Until Element Is Visible    ${upgrade} 
+    Wait Until Element Is Visible    ${homePage} 
