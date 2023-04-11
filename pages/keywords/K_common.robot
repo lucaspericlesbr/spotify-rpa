@@ -23,3 +23,8 @@ Usuário preenche os dados de password
 Usuário é logado no sistema na página principal
     Wait Until Element Is Visible    ${userProfile}
     Wait Until Element Is Visible    ${homePage} 
+
+Usuário navega até a página "Buscar"
+    Wait Until Element Is Visible    ${search}
+    Click Element                    ${search}
+    Wait Until Element Is Visible    ${searchField}

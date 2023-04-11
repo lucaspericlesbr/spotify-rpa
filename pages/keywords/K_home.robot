@@ -6,11 +6,6 @@ Resource              ../pages/variables/V_home.robot
 Resource              ../pages/variables/V_common.robot
 
 *** Keywords ***
-
-Usuário navega até a página "Buscar"
-    Wait Until Element Is Visible    ${search}
-    Click Element                    ${search}
-    Wait Until Element Is Visible    ${searchPage}
     
 Usuário navega até a página "Sua Biblioteca"
     Wait Until Element Is Visible    ${yourLibrary}
