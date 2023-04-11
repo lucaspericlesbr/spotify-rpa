@@ -12,11 +12,6 @@ Usuário navega até a página "Sua Biblioteca"
     Click Element                    ${yourLibrary}
     Wait Until Element Is Visible    ${yourLibraryPage}
 
-Usuário navega até a página "Criar Playlist"
-    Wait Until Element Is Visible    ${createPlaylist}
-    Click Element                    ${createPlaylist}
-    Wait Until Element Is Visible    ${createPlaylistPage}
-
 Usuário navega até a página "Músicas Curtidas"
     Wait Until Element Is Visible    ${likedSongs}
     Click Element                    ${likedSongs}
