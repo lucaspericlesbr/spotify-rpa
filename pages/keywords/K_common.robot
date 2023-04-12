@@ -28,3 +28,31 @@ Usuário navega até a página "Buscar"
     Wait Until Element Is Visible    ${search}
     Click Element                    ${search}
     Wait Until Element Is Visible    ${searchField}
+
+Usuário clica na opção "Criar Playlist"
+    Wait Until Element Is Visible    ${createPlaylist}
+    Click Element                    ${createPlaylist}
+    Wait Until Element Is Visible    ${createPlaylistPage}
+
+Usuário clica na playlist criada para editar
+    Wait Until Element Is Visible    ${playlistCreated}
+    Click Element                    ${playlistCreated}
+    Wait Until Element Is Visible    ${editDetailsPlaylist}
+
+Usuário edita informações da playlist
+    Wait Until Element Is Visible    ${editNameDetailsPlaylist}
+    Click Element                    ${editNameDetailsPlaylist}
+
+    FOR     ${i}    IN RANGE   35
+        PressKeys       None  ARROW_RIGHT
+        PressKeys       None  BACKSPACE
+        Exit For Loop If    ${i} == 35
+    END
+
+    Input Text                       ${editNameDetailsPlaylist}            Automated Playlist
+    
+Usuário clica em "Salvar"
+    Click Element                    ${saveButtonDetailsPlaylist}
+
+Usuário verifica se as informações foram editadas com sucesso
+    Wait Until Element Is Visible    ${editedNameDetailsPlaylist}

@@ -7,30 +7,19 @@ Resource              ../pages/variables/V_common.robot
 
 *** Keywords ***
 
-Usuário clica na opção "Criar Playlist"
-    Wait Until Element Is Visible    ${createPlaylist}
-    Click Element                    ${createPlaylist}
-    Wait Until Element Is Visible    ${createPlaylistPage}
+
 
 Usuário clica na playlist criada
-    Wait Until Element Is Visible    ${playlistCreated}
-    Click Element                    ${playlistCreated}
-    Wait Until Element Is Visible    ${editDetailsPlaylist}
+    Wait Until Element Is Visible    ${openCreatedPlaylist}
+    Click Element                    ${openCreatedPlaylist}
 
-Usuário edita informações da playlist
-    Wait Until Element Is Visible    ${editNameDetailsPlaylist}
-    Click Element                    ${editNameDetailsPlaylist}
+Usuário adiciona musicas a playlist
+    Wait Until Element Is Visible    ${searchBoxPlaylist}
+    Click Element                    ${searchBoxPlaylist}
+    Input Text                       ${searchBoxPlaylist}                  Superman Eminem
+    Wait Until Element Is Visible    ${firstAddMusicButton}
+    Click Element                    ${firstAddMusicButton}
 
-    FOR     ${i}    IN RANGE   35
-        PressKeys       None  ARROW_RIGHT
-        PressKeys       None  BACKSPACE
-        Exit For Loop If    ${i} == 35  
-    END
-
-    Input Text                       ${editNameDetailsPlaylist}            Automated Playlist
+Usário verifica se musicas foram adicionadas a playlist
+    Wait Until Element Is Visible    ${verifyONEmusic}
     
-Usuário clica em "Salvar"
-    Click Element                    ${saveButtonDetailsPlaylist}
-
-Usuário verifica se as informações foram editadas com sucesso
-    Wait Until Element Is Visible    ${editedNameDetailsPlaylist}

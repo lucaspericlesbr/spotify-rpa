@@ -23,3 +23,10 @@ Realizar login
     Usuário preenche os dados de password
     Usuário clica em "Entrar"
     Usuário é logado no sistema na página principal
+
+Criar playlist
+    Usuário clica na opção "Criar Playlist"
+    Usuário clica na playlist criada para editar
+    Usuário edita informações da playlist
+    Usuário clica em "Salvar"
+    Usuário verifica se as informações foram editadas com sucesso

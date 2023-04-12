@@ -10,9 +10,7 @@ Test Teardown
 
 *** Test Cases ***
 
-Criar playlist
-    Usuário clica na opção "Criar Playlist"
+Adicionar música na criação da playlist
     Usuário clica na playlist criada
-    Usuário edita informações da playlist
-    Usuário clica em "Salvar"
-    Usuário verifica se as informações foram editadas com sucesso
+    Usuário adiciona musicas a playlist
+    Usário verifica se musicas foram adicionadas a playlist
